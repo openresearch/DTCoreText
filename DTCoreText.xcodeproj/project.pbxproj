@@ -2273,7 +2273,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastTestingUpgradeCheck = 0510;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = Drobnik.com;
 				TargetAttributes = {
 					A78D9F771965B7DD00C80986 = {
